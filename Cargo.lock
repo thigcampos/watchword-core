@@ -62,7 +62,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rusted-watchword"
+name = "watchword-core"
 version = "0.0.1"
 dependencies = [
  "rand 0.3.23",

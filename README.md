@@ -1,8 +1,6 @@
-# Rusted-Watchword
+# Watchword Core
 
-###### par garzea
-
-Command-Line Password Generator in Rust. It is the Rust implementation of [Watchword](https://github.com/allogarzea/watchword). 
+An API to generate passwords and usernames. It is the Rust implementation of [Watchword](https://github.com/thigcampos/watchword). 
 
 ## Installation
 
