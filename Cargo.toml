@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2021"
 authors = ["Thiago Campos"]
 license = "GPL-3.0"
-repository = "https://github.com/allogarzea/watchword-core"
+repository = "https://github.com/thigcampos/watchword-core"
 description = "CLI Password Generator created in Rust."
 readme = "./README.md"
 
